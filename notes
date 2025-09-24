@@ -1,0 +1,23 @@
+Prepare the GPT for Typescript backend development
+
+Prepare the GPT for TDD with Jest
+
+describe("class name", () => {
+    // global test variables/const initialization
+
+    beforeEach(() => {
+        // refresh test variables and mocks
+    });
+
+    it("should return ... when ...", () => {
+        // arrange
+        // act
+        // assert
+    });
+
+    it("should throw ... when ...", () => {
+        // arrange
+        // act
+        // assert
+    });
+});
